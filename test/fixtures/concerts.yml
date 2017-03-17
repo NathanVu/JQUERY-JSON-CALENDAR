@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  band: MyString
+  start: 2017-03-17 14:34:42
+  end: 2017-03-17 14:34:42
+
+two:
+  band: MyString
+  start: 2017-03-17 14:34:42
+  end: 2017-03-17 14:34:42
